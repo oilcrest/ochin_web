@@ -1,3 +1,52 @@
+![status](https://img.shields.io/badge/status-obsolete-red)
+
+# ochin_web
+
+⚠️ **This project is obsolete and no longer maintained.**
+
+This repository is archived and kept online for reference and historical purposes only.  
+No further development, bug fixes, or support will be provided.
+
+---
+
+## 🛑 Project Status
+
+- **Last update**: Jun 3, 2022
+- **Current state**: Obsolete / Unmaintained
+- **Reason**: Project discontinued and not in use anymore.
+
+---
+
+## 🔍 About
+
+**ochin_web** was a web interface developed for the [Ochin](https://github.com/ochin-space) ecosystem.  
+It provided a frontend layer to interact with data or services related to the Ochin project, potentially for monitoring or configuration purposes.
+
+The project was built using plain HTML/JS, PHP, and was designed to run on Raspberry Pi CM4.
+
+---
+
+## 🚫 No Support
+
+Please note:
+- Issues and pull requests will be closed automatically.
+- This code is provided as-is, without warranty of any kind.
+- Feel free to fork it if you wish to build upon it.
+
+---
+
+## 🔗 Related Projects
+
+If you're looking for related or more active projects, check out:
+- [ochin-core](https://github.com/ochin-space/ochin-manager)
+- [ochin-space GitHub organization](https://github.com/ochin-space)
+
+---
+
+## 📄 License
+
+This project remains under its original license. See [`LICENSE`](LICENSE) for details.
+
 ![Alt text](images/ochin_logo.png?raw=true&=200x "ochin_web")
 <h1>ochin_web</h1>
 <p>The ochin_web software is designed to become a useful support for the developer of devices based on Raspberry Pi boards. In particular, it is designed to manage the Raspberry Pi CM4 module mounted on the <a href="https://github.com/ochin-space/ochin-CM4">ochin_CM4</a> carrier board, also part of the ochin project.</p>
